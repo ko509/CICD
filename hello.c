@@ -2,5 +2,5 @@
 
 int main(){
 printf("<h1>Hello, hongik!</h1>\n");
-return0;
+return 0;
 }
